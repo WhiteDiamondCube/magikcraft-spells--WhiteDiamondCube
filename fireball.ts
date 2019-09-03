@@ -1,6 +1,5 @@
 const magik = magikcraft.io;
 
-function fireball()
-{
-    magik.infierno();
+function fireball() {
+      magik.infierno();
 }
