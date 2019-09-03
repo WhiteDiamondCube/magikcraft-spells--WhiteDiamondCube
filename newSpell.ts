@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function say(msg="Hello world!") {
-      magik.dixit(msg);
+function jump(power = 100) {
+      magik.exsultus(power);
 }
